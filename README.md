@@ -1,5 +1,5 @@
 # zodgame_checkin
-Zodgame automatic check-in using github action
+Zodgame automatic check-in using github action 
 
 使用者可自行在本仓库Actions中查询本项目运行状况。由于CloudFlare本身机制的更新，可能会导致本项目无法运作。
 
